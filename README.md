@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analysis with NLTK
 
-This repository contains a Python Jupyter Notebook that demonstrates how to perform sentiment analysis on movie reviews using the Natural Language Toolkit (NLTK) library. The project utilizes a Naive Bayes classifier to distinguish between positive and negative reviews based on their textual content.
+This repository contains a Python Jupyter Notebook that performs sentiment analysis on movie reviews using the Natural Language Toolkit (NLTK) library. The project utilizes a Naive Bayes classifier to distinguish between positive and negative reviews based on their textual content.
 
 ## Project Overview
 
